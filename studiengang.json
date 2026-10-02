@@ -1,0 +1,105 @@
+{
+    "name": "Medizinische Informatik",
+    "startdatum": "2026-05-18",
+    "geplantes_enddatum": "2030-05-18",
+    "gesamt_ects": 180,
+    "gesamt_module": 35,
+    "semester": [
+        {
+            "nummer": 1,
+            "module": [
+                {
+                    "name": "Medizin für Nichtmediziner:innen I",
+                    "status": "Abgeschlossen",
+                    "pruefungsleistung": {
+                        "art": "Klausur",
+                        "frist": null,
+                        "leistungsdatum": "2026-06-12",
+                        "note": 2.7
+                    },
+                    "ects": 5,
+                    "abschlussdatum": "2026-07-10",
+                    "anerkannt": false
+                },
+                {
+                    "name": "Einführung in die Programmierung mit Python",
+                    "status": "Abgeschlossen",
+                    "pruefungsleistung": {
+                        "art": "Klausur",
+                        "frist": null,
+                        "leistungsdatum": "2026-07-17",
+                        "note": 2.3
+                    },
+                    "ects": 5,
+                    "abschlussdatum": "2026-07-22",
+                    "anerkannt": false
+                },
+                {
+                    "name": "E-Health",
+                    "status": "Abgeschlossen",
+                    "pruefungsleistung": {
+                        "art": "Klausur",
+                        "frist": null,
+                        "leistungsdatum": "2026-08-04",
+                        "note": 2.0
+                    },
+                    "ects": 5,
+                    "abschlussdatum": "2026-08-17",
+                    "anerkannt": false
+                },
+                {
+                    "name": "Anatomie und Physiologie",
+                    "status": "Abgeschlossen",
+                    "pruefungsleistung": {
+                        "art": "Klausur",
+                        "frist": null,
+                        "leistungsdatum": null,
+                        "note": null
+                    },
+                    "ects": 5,
+                    "abschlussdatum": null,
+                    "anerkannt": true
+                },
+                {
+                    "name": "Einführung in das wissenschaftliche Arbeiten für IT und Technik",
+                    "status": "In Bewertung",
+                    "pruefungsleistung": {
+                        "art": "Portfolio",
+                        "frist": null,
+                        "leistungsdatum": "2026-08-25",
+                        "note": null
+                    },
+                    "ects": 5,
+                    "abschlussdatum": null,
+                    "anerkannt": false
+                },
+                {
+                    "name": "Einführung in die Informatik",
+                    "status": "In Bewertung",
+                    "pruefungsleistung": {
+                        "art": "Klausur",
+                        "frist": null,
+                        "leistungsdatum": "2026-09-13",
+                        "note": null
+                    },
+                    "ects": 5,
+                    "abschlussdatum": null,
+                    "anerkannt": false
+                },
+                {
+                    "name": "Projekt: Objektorientierte und funktionale Programmierung mit Python",
+                    "status": "In Bearbeitung",
+                    "pruefungsleistung": {
+                        "art": "Portfolio",
+                        "frist": null,
+                        "leistungsdatum": null,
+                        "note": null
+                    },
+                    "ects": 5,
+                    "abschlussdatum": null,
+                    "anerkannt": false
+                }
+            ]
+        }
+    ]
+}
